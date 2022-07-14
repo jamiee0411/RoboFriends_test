@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Monofett';
+  src: local('Monofett-Regular'), url('Monofett-Regular.ttf'), format('ttf');
+}
+h1 {
+  font-family: 'Monofett', cursive;
+  font-weight: 200;
+  color: #0ccac4;
+
+}
