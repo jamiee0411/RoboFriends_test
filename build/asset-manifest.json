@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3740c231.css",
+    "main.js": "/static/js/main.7e9644bf.js",
+    "static/js/787.23e3530d.chunk.js": "/static/js/787.23e3530d.chunk.js",
+    "static/media/Monofett-Regular.ttf": "/static/media/Monofett-Regular.6accdc45a0ccb863e648.ttf",
+    "index.html": "/index.html",
+    "main.3740c231.css.map": "/static/css/main.3740c231.css.map",
+    "main.7e9644bf.js.map": "/static/js/main.7e9644bf.js.map",
+    "787.23e3530d.chunk.js.map": "/static/js/787.23e3530d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3740c231.css",
+    "static/js/main.7e9644bf.js"
+  ]
+}
